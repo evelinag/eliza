@@ -73,6 +73,21 @@ I'm in **London** at **Progressive F# tutorials**.
 
 ---
 
+> I had not realized… that extremely short exposures to a relatively simple computer program could induce powerful delusional thinking in quite normal people.
+
+<div style="color: #800080">
+<b>Joseph Weizenbaum</b>
+</div>
+Computer Power and Human Reason: From Judgment To Calculation.
+
+---
+
+# Eliza effect
+
+Tendency to unconsciously assume computer behaviors are analogous to human behaviors.
+
+---
+
 ## How does Eliza work?
 
 <table>
